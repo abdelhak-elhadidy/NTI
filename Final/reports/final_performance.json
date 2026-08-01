@@ -1,0 +1,12 @@
+{
+  "model": "LightGBM",
+  "date": "2026-07-26 21:27:22.402014",
+  "dataset": "Adult Census Income",
+  "Model": "LightGBM (Tuned)",
+  "Accuracy": 0.8778,
+  "Precision": 0.7857,
+  "Recall": 0.6779,
+  "F1 Score": 0.7278,
+  "ROC-AUC": 0.9296,
+  "PR-AUC": 0.8352
+}
